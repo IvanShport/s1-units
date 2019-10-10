@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Order.getItems function no items 1`] = `ShallowWrapper {}`;
+
+exports[`Order.getItems function some valid order 1`] = `ShallowWrapper {}`;
